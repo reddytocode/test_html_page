@@ -1,0 +1,26 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+h1 {
+    padding: 3px;
+    background-color: blue;
+    color: white;
+    padding-left: 20px;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+footer {
+    margin-top: 35px;
+    text-align: center;
+    padding: 3px;
+    background-color: blue;
+    color: white;
+}
